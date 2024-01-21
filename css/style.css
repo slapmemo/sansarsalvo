@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --pembe: rgb(247, 80, 108);
+    --pembe-light: rgb(255, 180, 192); 
+    --beyaz: white;
+    --siyah: black;
+    --siyah-light: rgb(190, 190, 190);
+}
+
+body {
+    background-color: var(--siyah-light);
+    font-family: 'Raleway', sans-serif;
+}
+
+.aktif-menu {
+    background-color: var(--pembe);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: var(--pembe-light);
+    padding: 1rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+main{
+    background-color: var(--beyaz);
+    padding: 1rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+footer{
+    background-color: var(--pembe);
+    padding: 1rem;
+    font-family: 'Raleway', sans-serif;
+}
