@@ -3,7 +3,7 @@
 Bu proje, sanatçı Ekincan Arslan'ın kişisel web sitesi için oluşturulmuştur. 
 
 
-Aşağıdaki web sayafaları kodlanacaktır:
+Aşağıdaki web sayfaları kodlanacaktır:
 - Ana sayfa
 - Hakkında
 - Fotoğraflar
